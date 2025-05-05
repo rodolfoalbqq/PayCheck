@@ -23,6 +23,6 @@ Este projeto é um validador de cartões de crédito desenvolvido em C# que iden
 - Console Application
 
 ## ⚙️ Como Executar
-1. Clone o repositório
+Clone o repositório
 ```bash
 git clone https://github.com/rodolfoalbqq/PayCheck
